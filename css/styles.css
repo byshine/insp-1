@@ -1,0 +1,113 @@
+header {
+	padding-top: 5rem;
+}
+
+header h1,
+header h5 {
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+nav {
+	padding: 0;
+	margin: 0;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+
+nav li {
+	display: inline-block;
+	padding: 0.5rem;
+	padding-bottom: 0.3rem;
+}
+
+nav li a {
+	color: black;
+	text-decoration: none;
+}
+
+nav hr {
+	margin-top: 0.2rem;
+}
+
+.postsection {
+	text-align: center;
+}
+
+.postsection-title {
+	margin: 0;
+	padding: 0;
+}
+
+.postsection-meta {
+	margin: 0;
+	padding: 0;
+	font-size: 1.6rem;
+}
+
+.postsection-tags {
+	margin: 0;
+	padding: 0;
+	margin-bottom: 3rem;
+	line-height: 0.5rem;
+}
+
+.postsection-tags ul {
+	margin: 0;
+	padding: 0;
+}
+
+.postsection-tags li {
+	padding: 0;
+	margin: 0;
+	display: inline-block;
+}
+
+.postsection-tags a {
+	text-decoration: none;
+	font-size: 1.5rem;
+	font-style: italic;
+	color: grey;
+}
+
+.postsection-image {
+	max-width: 100%;
+	margin-bottom: 2.5rem;
+	height: auto;
+}
+
+
+.postsection-content,
+.postsection-footer {
+	width: 60%;
+	margin: 0 auto;
+	font-size: 1.8rem;
+	text-align: justify;
+}
+
+.postsection-footer {
+	text-align: center;
+}
+
+.postsection-footer-readmore {
+	text-decoration: none;
+	font-style: italic;
+	color: black;
+}
+
+.postsection hr {
+	width: 60%;
+}
+
+footer {
+	text-align: center;
+}
+
+.footer-copyright {
+	font-size: 1.5rem;
+}
